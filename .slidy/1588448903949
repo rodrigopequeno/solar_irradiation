@@ -1,0 +1,4 @@
+lib/app/shared/components/logo/logo_widget.dart
+test/app/shared/components/logo/logo_widget_test.dart
+lib/app/shared/components/logo/logo_controller.dart
+test/app/shared/components/logo/logo_controller_test.dart

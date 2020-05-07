@@ -1,0 +1,8 @@
+include: package:effective_dart/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - lib/app/modules/*/*.g.dart
+    - lib/app/shared/models/*.g.dart
+linter:
+  rules:

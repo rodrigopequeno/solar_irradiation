@@ -1,0 +1,4 @@
+lib/app/shared/components/table_stations/table_stations_widget.dart
+test/app/shared/components/table_stations/table_stations_widget_test.dart
+lib/app/shared/components/table_stations/table_stations_controller.dart
+test/app/shared/components/table_stations/table_stations_controller_test.dart

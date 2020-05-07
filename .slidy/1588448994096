@@ -1,0 +1,4 @@
+lib/app/shared/components/graph_inclination/graph_inclination_widget.dart
+test/app/shared/components/graph_inclination/graph_inclination_widget_test.dart
+lib/app/shared/components/graph_inclination/graph_inclination_controller.dart
+test/app/shared/components/graph_inclination/graph_inclination_controller_test.dart

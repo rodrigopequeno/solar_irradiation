@@ -1,0 +1,4 @@
+lib/app/shared/components/about/about_widget.dart
+test/app/shared/components/about/about_widget_test.dart
+lib/app/shared/components/about/about_controller.dart
+test/app/shared/components/about/about_controller_test.dart
