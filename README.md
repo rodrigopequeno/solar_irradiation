@@ -1,3 +1,5 @@
+[![Open Source Helpers](https://www.codetriage.com/rodrigopequeno/solar_irradiation/badges/users.svg)](https://www.codetriage.com/rodrigopequeno/solar_irradiation)
+
 # Solar Irradiation
 
 Flutter application to consult the average daily solar radiation in the user's current location or in any Brazilian city.
